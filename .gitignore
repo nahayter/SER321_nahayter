@@ -12,10 +12,12 @@ out/
 
 # VS Code
 .vscode/
-!.vscode/extensions.json
+!.vscode/
 !.vscode/settings.json
+!.vscode/extensions.json
 !.vscode/launch.json
 !.vscode/tasks.json
+
 
 # OS junk
 .DS_Store
